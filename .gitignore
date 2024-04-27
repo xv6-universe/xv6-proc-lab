@@ -17,3 +17,7 @@ user/usys.S
 .gdbinit
 compile_commands.json
 .cache
+.idea
+.dir-locals.el
+.editorconfig
+.gdbinit.tmpl-riscv
